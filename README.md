@@ -15,18 +15,7 @@ This project is a modern, **responsive front-end UI** featuring an interactive *
 - **HTML5** – Structuring the layout.  
 - **CSS3** – Styling with flexbox and animations.  
 - **JavaScript (ES6)** – Handling interactive elements.  
-- **FontAwesome** – Icons for a polished look.  
-
-## How to Run the Project
-1. **Clone the Repository:**  
-   ```sh
-   git clone https://github.com/yourusername/enhanced-frontend.git
-   ```
-2. **Navigate into the Project Folder:**  
-   ```sh
-   cd enhanced-frontend
-   ```
-3. **Open `index.html` in a browser.**  
+- **FontAwesome** – Icons for a polished look.    
 
 ## Use Cases
 - Can be used as a **navigation template** for websites.  
